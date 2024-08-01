@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "nBdjhuW2KFqCeRjTVA5I3",
+      "userId": 1,
+      "title": "Learning RTK",
+      "completed": false
+    },
+    {
+      "id": "aJZ8yql56Dcyh6sBxXKwx",
+      "userId": 1,
+      "title": "Learning Redux",
+      "completed": true
+    },
+    {
+      "id": "TEqBTzECxtx30NvOeqeli",
+      "userId": 1,
+      "title": "Exploring Thunk",
+      "completed": false
+    }
+  ]
+}
